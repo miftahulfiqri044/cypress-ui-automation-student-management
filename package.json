@@ -1,0 +1,24 @@
+{
+  "name": "cypress-ui-automation-student-management",
+  "version": "1.0.0",
+  "description": "This repository contains a UI automation testing project built using Cypress for a Student Management System web application.  \r The project is created as a QA automation portfolio to demonstrate end-to-end testing, form validation, and UI regression testing using Cypress best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miftahulfiqri044/cypress-ui-automation-student-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/miftahulfiqri044/cypress-ui-automation-student-management/issues"
+  },
+  "homepage": "https://github.com/miftahulfiqri044/cypress-ui-automation-student-management#readme",
+  "devDependencies": {
+    "cypress": "^15.9.0"
+  }
+}
