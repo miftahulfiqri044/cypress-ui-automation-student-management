@@ -1,0 +1,20 @@
+{
+    "newStudent": {
+        "nama": "Antigravity Student",
+        "nis": "123456789",
+        "kelas": "X-IPA-1",
+        "jurusan": "IPA",
+        "email": "student@example.com",
+        "telp": "08123456789",
+        "alamat": "Jalan Antigravity No. 1"
+    },
+    "updatedStudent": {
+        "nama": "Antigravity Updated",
+        "nis": "987654321",
+        "kelas": "XI-IPS-2",
+        "jurusan": "IPS",
+        "email": "updated@example.com",
+        "telp": "08987654321",
+        "alamat": "Jalan Updated No. 2"
+    }
+}

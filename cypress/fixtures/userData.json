@@ -1,0 +1,16 @@
+{
+    "validUser": {
+        "email": "taruna@jakarta.com",
+        "password": "Periksa100%"
+    },
+    "invalidUser": {
+        "email": "wrong@example.com",
+        "password": "wrongpassword",
+        "errorMessage": "Identitas tersebut tidak cocok dengan data kami."
+    },
+    "newUser": {
+        "name": "Taruna Hulu",
+        "email": "taruna@jakarta.com",
+        "password": "Periksa100%"
+    }
+}
